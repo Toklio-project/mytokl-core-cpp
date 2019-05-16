@@ -2,6 +2,7 @@
 build
 Debug
 xcode
+.vscode/
 cmake-build-debug/
 .idea
 CMakeFiles

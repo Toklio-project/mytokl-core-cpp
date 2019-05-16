@@ -14,7 +14,7 @@ find_package(Boost COMPONENTS
     thread REQUIRED
 )
 
-set(MONERO_SRC "contrib/monero-core-custom")
+set(MONERO_SRC "contrib/tokl-core-custom")
 
 include_directories(${Boost_INCLUDE_DIRS})
 include_directories("src")
